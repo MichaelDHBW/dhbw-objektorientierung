@@ -21,6 +21,7 @@ public:
 			200, 100, Gosu::Color::GREEN,
 			0.0
 		);
+		//test
 	}
 
 	// Wird 60x pro Sekunde aufgerufen
